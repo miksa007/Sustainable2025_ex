@@ -1,0 +1,430 @@
+[
+    {
+        "id": 2,
+        "name": "Automatic Frequency Restoration Reserve, capacity, down"
+    },
+    {
+        "id": 22,
+        "name": "Price of the last activated up-regulation bid - real time data"
+    },
+    {
+        "id": 24,
+        "name": "Day-ahead transmission capacity SE1-FI - official"
+    },
+    {
+        "id": 25,
+        "name": "Day-ahead transmission capacity SE3-FI - official"
+    },
+    {
+        "id": 26,
+        "name": "Day-ahead transmission capacity FI-SE1 - official"
+    },
+    {
+        "id": 27,
+        "name": "Day-ahead transmission capacity FI-SE3 - official"
+    },
+    {
+        "id": 28,
+        "name": "Planned weekly capacity from north to south"
+    },
+    {
+        "id": 29,
+        "name": "Planned weekly capacity from south to north"
+    },
+    {
+        "id": 30,
+        "name": "Measured transmission of electricity in Finland from north to south"
+    },
+    {
+        "id": 31,
+        "name": "Commercial transmission of electricity between FI-SE1"
+    },
+    {
+        "id": 32,
+        "name": "Commercial transmission of electricity between FI-SE3"
+    },
+    {
+        "id": 33,
+        "name": "Ordered down-regulations from Balancing energy market in Finland"
+    },
+    {
+        "id": 34,
+        "name": "Ordered up-regulations from Balancing energy market in Finland"
+    },
+    {
+        "id": 38,
+        "name": "Intraday transmission capacity SE1-FI"
+    },
+    {
+        "id": 39,
+        "name": "Intraday transmission capacity SE3-FI"
+    },
+    {
+        "id": 41,
+        "name": "Planned transmission capacity FI-RUS"
+    },
+    {
+        "id": 44,
+        "name": "Intraday transmission capacity FI - SE1"
+    },
+    {
+        "id": 45,
+        "name": "Intraday transmission capacity FI-SE3"
+    },
+    {
+        "id": 48,
+        "name": "Congestion income between FI-EE"
+    },
+    {
+        "id": 49,
+        "name": "Bilateral trade capacity FI-RUS, unused"
+    },
+    {
+        "id": 50,
+        "name": "Intraday transmission capacity FI-RUS"
+    },
+    {
+        "id": 51,
+        "name": "Automatic Frequency Restoration Reserve, price, down"
+    },
+    {
+        "id": 52,
+        "name": "Automatic Frequency Restoration Reserve, price, up"
+    },
+    {
+        "id": 53,
+        "name": "Automatic Frequency Restoration Reserve, activated, down"
+    },
+    {
+        "id": 54,
+        "name": "Automatic Frequency Restoration Reserve, activated, up"
+    },
+    {
+        "id": 55,
+        "name": "Transmission of electricity between Finland and Estonia"
+    },
+    {
+        "id": 57,
+        "name": "Transmission of electricity between Finland and Norway"
+    },
+    {
+        "id": 58,
+        "name": "Transmission of electricity between Finland and Russia - measured every 15 minutes"
+    },
+    {
+        "id": 60,
+        "name": "Transmission of electricity between Finland and Northern Sweden - measured every 15 minutes"
+    },
+    {
+        "id": 61,
+        "name": "Transmission of electricity between Finland and Central Sweden - measured every 15 minutes"
+    },
+    {
+        "id": 63,
+        "name": "Transmission capacity RUS-FI"
+    },
+    {
+        "id": 64,
+        "name": "Bilateral trade capacity RUS-FI, unused"
+    },
+    {
+        "id": 65,
+        "name": "Bilateral trade capacity RUS-FI"
+    },
+    {
+        "id": 66,
+        "name": "Intraday transmission capacity RUS-FI"
+    },
+    {
+        "id": 67,
+        "name": "Stock exchange capacity RUS-FI"
+    },
+    {
+        "id": 68,
+        "name": "Bilateral trade between FI-RUS"
+    },
+    {
+        "id": 69,
+        "name": "Stock exchange trade FI-RUS-FI"
+    },
+    {
+        "id": 70,
+        "name": "Congestion income between FI-SE1"
+    },
+    {
+        "id": 71,
+        "name": "Congestion income between FI-SE3"
+    },
+    {
+        "id": 74,
+        "name": "Electricity production in Finland"
+    },
+    {
+        "id": 75,
+        "name": "Wind power generation - 15 min data"
+    },
+    {
+        "id": 85,
+        "name": "Cross-border transmission fee, import from Russia"
+    },
+    {
+        "id": 86,
+        "name": "Cross-border transmission fee, export to Russia"
+    },
+    {
+        "id": 87,
+        "name": "Transmission between Finland and Northern Sweden - real time data"
+    },
+    {
+        "id": 89,
+        "name": "Transmission between Finland and Central Sweden - real time data"
+    },
+    {
+        "id": 90,
+        "name": "Transmission between Sweden and \u00c5land - real time data"
+    },
+    {
+        "id": 92,
+        "name": "The price of comsumption imbalance electricity"
+    },
+    {
+        "id": 93,
+        "name": "The sales price of production imbalance electricity"
+    },
+    {
+        "id": 96,
+        "name": "The buying price of production imbalance electricity"
+    },
+    {
+        "id": 101,
+        "name": "Bilateral trade capacity FI-RUS"
+    },
+    {
+        "id": 102,
+        "name": "Stock exchange capacity FI-RUS"
+    },
+    {
+        "id": 103,
+        "name": "Transmission capacity FI-RUS"
+    },
+    {
+        "id": 105,
+        "name": "The sum of the down-regualtion bids in the Balancing energy market"
+    },
+    {
+        "id": 106,
+        "name": "Down-regulation price in the Balancing energy market"
+    },
+    {
+        "id": 110,
+        "name": "Intraday transmission capacity EE-FI"
+    },
+    {
+        "id": 111,
+        "name": "Intraday transmission capacity EE-FI - real time data"
+    },
+    {
+        "id": 112,
+        "name": "Day-ahead transmission capacity EE-FI - official"
+    },
+    {
+        "id": 113,
+        "name": "Intraday transmission capacity FI-EE"
+    },
+    {
+        "id": 114,
+        "name": "Intraday transmission capacity FI-EE - real time data"
+    },
+    {
+        "id": 115,
+        "name": "Day-ahead transmission capacity FI-EE - official"
+    },
+    {
+        "id": 118,
+        "name": "Special regulation, down-regulation"
+    },
+    {
+        "id": 119,
+        "name": "Special regulation, up-regulation"
+    },
+    {
+        "id": 123,
+        "name": "Frequency Containment Reserve for Normal operation, activated"
+    },
+    {
+        "id": 124,
+        "name": "Electricity consumption in Finland"
+    },
+    {
+        "id": 127,
+        "name": "Planned transmission capacity RUS-FI"
+    },
+    {
+        "id": 140,
+        "name": "Commercial transmission of electricity between FI-EE"
+    },
+    {
+        "id": 142,
+        "name": "Day-ahead transmission capacity SE1-FI - planned"
+    },
+    {
+        "id": 143,
+        "name": "Day-ahead transmission capacity FI-SE1 - planned"
+    },
+    {
+        "id": 144,
+        "name": "Day-ahead transmission capacity SE3-FI  - planned"
+    },
+    {
+        "id": 145,
+        "name": "Day-ahead transmission capacity FI-SE3 - planned"
+    },
+    {
+        "id": 165,
+        "name": "Electricity consumption forecast - next 24 hours"
+    },
+    {
+        "id": 166,
+        "name": "Electricity consumption forecast"
+    },
+    {
+        "id": 176,
+        "name": "Imbalance power between Finland and Sweden"
+    },
+    {
+        "id": 177,
+        "name": "Frequency - real time data"
+    },
+    {
+        "id": 178,
+        "name": "Temperature in Helsinki - real time data"
+    },
+    {
+        "id": 180,
+        "name": "Transmission between Finland and Estonia - real time data"
+    },
+    {
+        "id": 181,
+        "name": "Wind power production - real time data"
+    },
+    {
+        "id": 182,
+        "name": "Temperature in Jyv\u00e4skyl\u00e4 - real time data"
+    },
+    {
+        "id": 183,
+        "name": "Peak load power - real time data"
+    },
+    {
+        "id": 185,
+        "name": "Temperature in Rovaniemi - real time data"
+    },
+    {
+        "id": 186,
+        "name": "Surplus/deficit, cumulative - real time data"
+    },
+    {
+        "id": 187,
+        "name": "Transmission between Finland and Norway - real time data"
+    },
+    {
+        "id": 188,
+        "name": "Nuclear power production - real time data"
+    },
+    {
+        "id": 191,
+        "name": "Hydro power production - real time data"
+    },
+    {
+        "id": 192,
+        "name": "Electricity production in Finland - real time data"
+    },
+    {
+        "id": 193,
+        "name": "Electricity consumption in Finland - real time data"
+    },
+    {
+        "id": 194,
+        "name": "Net import/export of electricity - real time data"
+    },
+    {
+        "id": 195,
+        "name": "Transmission between Finland and Russia - real time data"
+    },
+    {
+        "id": 196,
+        "name": "Temperature in Oulu - real time data"
+    },
+    {
+        "id": 198,
+        "name": "Electricity production, surplus/deficit - real time data"
+    },
+    {
+        "id": 201,
+        "name": "Cogeneration of district heating - real time data"
+    },
+    {
+        "id": 202,
+        "name": "Industrial cogeneration - real time data"
+    },
+    {
+        "id": 205,
+        "name": "Electricity production, reserve power plants and small-scale production - real time data"
+    },
+    {
+        "id": 206,
+        "name": "Time deviation - real time data"
+    },
+    {
+        "id": 209,
+        "name": "Power system state - real time data"
+    },
+    {
+        "id": 213,
+        "name": "Other power transactions, down-regulation"
+    },
+    {
+        "id": 214,
+        "name": "Other power transactions, up-regulation"
+    },
+    {
+        "id": 239,
+        "name": "Hour change regulation, down-regulation"
+    },
+    {
+        "id": 240,
+        "name": "Hour change regulation, up-regulation"
+    },
+    {
+        "id": 241,
+        "name": "Electricity production prediction - updated every 15 minutes"
+    },
+    {
+        "id": 242,
+        "name": "Electricity production prediction - premilinary"
+    },
+    {
+        "id": 243,
+        "name": "The sum of the up-regulation bids in the balancing energy market"
+    },
+    {
+        "id": 244,
+        "name": "Up-regulating price in the Balancing energy market"
+    },
+    {
+        "id": 245,
+        "name": "Wind power generation forecast - updated every 15 minutes"
+    },
+    {
+        "id": 246,
+        "name": "Wind power generation forecast - updated once a day"
+    },
+    {
+        "id": 247,
+        "name": "Solar power generation forecast - updated once a day"
+    },
+    {
+        "id": 248,
+        "name": "Solar power generation forecast - updated every 15 minutes"
+    }
+]

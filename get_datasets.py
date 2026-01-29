@@ -1,6 +1,6 @@
 # Description: This script fetches the information of all the datasets available on the Fingrid Open Data API.
 # mika.saari@tuni.fi
-# Last updated: 2021-10-06
+# Last updated: 2025-10-06
 
 import os
 import urllib.request, json

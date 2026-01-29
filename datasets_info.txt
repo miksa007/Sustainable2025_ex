@@ -1,11 +1,15 @@
 [
     {
+        "id": 1,
+        "name": "Automatic Frequency Restoration Reserve, capacity, up"
+    },
+    {
         "id": 2,
         "name": "Automatic Frequency Restoration Reserve, capacity, down"
     },
     {
         "id": 22,
-        "name": "Price of the last activated up-regulation bid - real time data"
+        "name": "Price of the last activated up-regulation bid - real-time data"
     },
     {
         "id": 24,
@@ -45,11 +49,11 @@
     },
     {
         "id": 33,
-        "name": "Ordered down-regulations from Balancing energy market in Finland"
+        "name": "Ordered down-regulations from the Balancing energy market in Finland"
     },
     {
         "id": 34,
-        "name": "Ordered up-regulations from Balancing energy market in Finland"
+        "name": "Ordered up-regulations from the Balancing energy market in Finland"
     },
     {
         "id": 38,
@@ -101,11 +105,11 @@
     },
     {
         "id": 55,
-        "name": "Transmission of electricity between Finland and Estonia"
+        "name": "Transmission of electricity between Finland and Estonia - power measured every 15 minutes"
     },
     {
         "id": 57,
-        "name": "Transmission of electricity between Finland and Norway"
+        "name": "Transmission of electricity between Finland and Norway - measured every 15 minutes"
     },
     {
         "id": 58,
@@ -113,11 +117,11 @@
     },
     {
         "id": 60,
-        "name": "Transmission of electricity between Finland and Northern Sweden - measured every 15 minutes"
+        "name": "Transmission of electricity between Finland and Northern Sweden - power measured every 15 minutes"
     },
     {
         "id": 61,
-        "name": "Transmission of electricity between Finland and Central Sweden - measured every 15 minutes"
+        "name": "Transmission of electricity between Finland and Central Sweden - power measured every 15 minutes"
     },
     {
         "id": 63,
@@ -173,15 +177,15 @@
     },
     {
         "id": 87,
-        "name": "Transmission between Finland and Northern Sweden - real time data"
+        "name": "Transmission of electricity between Finland and Northern Sweden - real-time data"
     },
     {
         "id": 89,
-        "name": "Transmission between Finland and Central Sweden - real time data"
+        "name": "Transmission of electricity between Finland and Central Sweden - real-time data"
     },
     {
         "id": 90,
-        "name": "Transmission between Sweden and \u00c5land - real time data"
+        "name": "Transmission of electricity between Sweden and \u00c5land - real-time data"
     },
     {
         "id": 92,
@@ -209,7 +213,7 @@
     },
     {
         "id": 105,
-        "name": "The sum of the down-regualtion bids in the Balancing energy market"
+        "name": "The sum of the down-regulation bids in the Balancing energy market"
     },
     {
         "id": 106,
@@ -281,11 +285,7 @@
     },
     {
         "id": 165,
-        "name": "Electricity consumption forecast - next 24 hours"
-    },
-    {
-        "id": 166,
-        "name": "Electricity consumption forecast"
+        "name": "Electricity consumption forecast - updated once a day"
     },
     {
         "id": 176,
@@ -293,7 +293,7 @@
     },
     {
         "id": 177,
-        "name": "Frequency - real time data"
+        "name": "Frequency - real-time data"
     },
     {
         "id": 178,
@@ -301,11 +301,11 @@
     },
     {
         "id": 180,
-        "name": "Transmission between Finland and Estonia - real time data"
+        "name": "Transmission of electricity between Finland and Estonia - real-time data"
     },
     {
         "id": 181,
-        "name": "Wind power production - real time data"
+        "name": "Wind power production - real-time data"
     },
     {
         "id": 182,
@@ -313,7 +313,7 @@
     },
     {
         "id": 183,
-        "name": "Peak load power - real time data"
+        "name": "Peak load power - real-time data"
     },
     {
         "id": 185,
@@ -321,35 +321,35 @@
     },
     {
         "id": 186,
-        "name": "Surplus/deficit, cumulative - real time data"
+        "name": "Surplus/deficit, cumulative - real-time data"
     },
     {
         "id": 187,
-        "name": "Transmission between Finland and Norway - real time data"
+        "name": "Transmission of electricity between Finland and Norway - real-time data"
     },
     {
         "id": 188,
-        "name": "Nuclear power production - real time data"
+        "name": "Nuclear power production - real-time data"
     },
     {
         "id": 191,
-        "name": "Hydro power production - real time data"
+        "name": "Hydro power production - real-time data"
     },
     {
         "id": 192,
-        "name": "Electricity production in Finland - real time data"
+        "name": "Electricity production in Finland - real-time data"
     },
     {
         "id": 193,
-        "name": "Electricity consumption in Finland - real time data"
+        "name": "Electricity consumption in Finland - real-time data"
     },
     {
         "id": 194,
-        "name": "Net import/export of electricity - real time data"
+        "name": "Net import/export of electricity - real-time data"
     },
     {
         "id": 195,
-        "name": "Transmission between Finland and Russia - real time data"
+        "name": "Transmission of electricity between Finland and Russia - real-time data"
     },
     {
         "id": 196,
@@ -357,27 +357,27 @@
     },
     {
         "id": 198,
-        "name": "Electricity production, surplus/deficit - real time data"
+        "name": "Electricity production, surplus/deficit - real-time data"
     },
     {
         "id": 201,
-        "name": "Cogeneration of district heating - real time data"
+        "name": "Cogeneration of district heating - real-time data"
     },
     {
         "id": 202,
-        "name": "Industrial cogeneration - real time data"
+        "name": "Industrial cogeneration - real-time data"
     },
     {
         "id": 205,
-        "name": "Electricity production, reserve power plants and small-scale production - real time data"
+        "name": "Electricity production, reserve power plants and small-scale production - real-time data"
     },
     {
         "id": 206,
-        "name": "Time deviation - real time data"
+        "name": "Time deviation - real-time data"
     },
     {
         "id": 209,
-        "name": "Power system state - real time data"
+        "name": "Power system state - real-time data"
     },
     {
         "id": 213,
